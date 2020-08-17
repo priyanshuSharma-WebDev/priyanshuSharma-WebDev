@@ -36,6 +36,14 @@
 
 <br />
 
+---
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="priyanshuSharma's Github Stats" src="https://github-readme-stats.priyanshuSharma-WebDev.vercel.app/api?username=priyanshuSharma-WebDev&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/PriyanshuShrama
 [linkedin]: https://www.linkedin.com/in/priyanshu-shrama-555586163/
 [instagram]: https://www.instagram.com/digital_intelligence_/
