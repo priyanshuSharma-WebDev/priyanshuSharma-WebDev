@@ -38,7 +38,7 @@
 <br />
 
  ---
-<img align="left" alt="priyanshuSharma's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priyanshuSharma-WebDev&show_icons=true&hide_border=true" />
+<img align="left" alt="priyanshuSharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshuSharma-WebDev&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/PriyanshuShrama
 [linkedin]: https://www.linkedin.com/in/priyanshu-shrama-555586163/
