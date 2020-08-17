@@ -25,8 +25,3 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 
-<br />
-
-[twitter]: https://twitter.com/PriyanshuShrama
-[linkedin]: https://www.linkedin.com/in/priyanshu-shrama-555586163/
-[instagram]: https://www.instagram.com/digital_intelligence_/
