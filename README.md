@@ -1,4 +1,4 @@
-### Hi there, I'm priyanshu Sharma - aka Web developer 👋
+### Hi there, I'm priyanshu Sharma - aka Full Stack Web Developer 👋
 
 
 ## I'm a Student, Designer, Developer, and Creator!
