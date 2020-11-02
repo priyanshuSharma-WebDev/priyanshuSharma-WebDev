@@ -1,7 +1,7 @@
 ### Hi there, I'm Priyanshu Sharma - aka Full Stack Web Developer 👋
 
 
-# I'm a Student, Designer, Developer, and Creator!
+# I'm a Student, Designer, Developer!
 
 - 🔭 I’m currently build my portfolio!
 - 🌱 I’m currently learning most relevent things to my goal🧐
