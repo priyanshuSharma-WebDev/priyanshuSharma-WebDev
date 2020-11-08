@@ -37,6 +37,7 @@
 <img align="left" alt="jquery" width="36px" src="https://user-images.githubusercontent.com/57032769/90775512-8f3ac300-e316-11ea-86e3-116ef32b6b22.png" />
 <img align="left" alt="graphql" width="36px" src="https://graphql.org/img/logo.svg" />
 <img align="left" alt="gatsby" width="36px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
+<img align="left" alt="next js" width="36px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
 
 <br />
 <br />
