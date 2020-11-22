@@ -37,6 +37,7 @@
 <img align="left" alt="jquery" width="36px" src="https://user-images.githubusercontent.com/57032769/90775512-8f3ac300-e316-11ea-86e3-116ef32b6b22.png" />
 
 <br />
+
 ---
 
 <img align="left" alt="graphql" width="36px" src="https://graphql.org/img/logo.svg" />
