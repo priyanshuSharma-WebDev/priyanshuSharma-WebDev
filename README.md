@@ -39,7 +39,6 @@
 <br />
 <br />
 
-- - -
 
 <img align="left" alt="graphql" width="36px" src="https://graphql.org/img/logo.svg" />
 <img align="left" alt="gatsby" width="36px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
