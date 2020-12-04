@@ -57,5 +57,5 @@
 <br />
 
 [twitter]: https://twitter.com/PriyanshuShrama
-[linkedin]: https://www.linkedin.com/in/priyanshu-shrama-555586163/
+[linkedin]: https://www.linkedin.com/in/priyanshu-sharma-555586163/
 [instagram]: https://www.instagram.com/digital_intelligence_/
