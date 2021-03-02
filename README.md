@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="priyanshu Sharma | Twitter" style="filter: grayscale(100%);" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="priyanshu Sharma | Twitter" style="filter: grayscale(100%);" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1614679388~hmac=1543987acf543c7ab70b3738896f5108" />][twitter]
 [<img align="left" alt="priyanshu Sharma | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614679110~hmac=fd84019f39df4b5dd50e76e3d495b6b0" />][linkedin]
-[<img align="left" alt="priyanshu Sharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="priyanshu Sharma | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1614679292~hmac=f6856386e778026cc4018c5d73a6a9c7" />][instagram]
 
 <br />
 
