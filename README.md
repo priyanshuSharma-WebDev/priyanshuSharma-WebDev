@@ -3,7 +3,7 @@
 
 # I'm a Student, Designer, Developer!
 
-- 🔭 I’m currently build my portfolio!
+- 🔭 I’m currently build my portfolio and going to master DSA!
 - 🌱 I’m currently learning most relevent things to my goal🧐.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and apply to a dev job.
