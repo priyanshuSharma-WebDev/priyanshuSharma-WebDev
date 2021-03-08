@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="priyanshu Sharma | Twitter" style="filter: grayscale(100%);" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1614679388~hmac=1543987acf543c7ab70b3738896f5108" />][twitter]
-[<img align="left" alt="priyanshu Sharma | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614679110~hmac=fd84019f39df4b5dd50e76e3d495b6b0" />][linkedin]
-[<img align="left" alt="priyanshu Sharma | Instagram" style="filter: grayscale(100%);" width="30px" src="https://user-images.githubusercontent.com/57032769/110303213-23a11480-8020-11eb-9185-f859c6456b4a.png" />][instagram]
+[<img align="left" alt="priyanshu Sharma | Twitter" style="filter: grayscale(100%);" width="36px" src="https://user-images.githubusercontent.com/57032769/110306545-f7879280-8023-11eb-811f-61ec7e86af03.png" />][twitter]
+[<img align="left" alt="priyanshu Sharma | LinkedIn" width="36px" src="https://user-images.githubusercontent.com/57032769/110306719-20a82300-8024-11eb-9dc5-36b43be2c150.png" />][linkedin]
+[<img align="left" alt="priyanshu Sharma | Instagram" style="filter: grayscale(100%);" width="36px" src="https://user-images.githubusercontent.com/57032769/110306827-46352c80-8024-11eb-98fb-c8dc2ba74965.png" />][instagram]
 
 
 <br />
