@@ -14,7 +14,8 @@
 
 [<img align="left" alt="priyanshu Sharma | Twitter" style="filter: grayscale(100%);" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1614679388~hmac=1543987acf543c7ab70b3738896f5108" />][twitter]
 [<img align="left" alt="priyanshu Sharma | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614679110~hmac=fd84019f39df4b5dd50e76e3d495b6b0" />][linkedin]
-[<img align="left" alt="priyanshu Sharma | Instagram" width="22px" src="file:///C:/Users/LENOVO/Downloads/SHAREit/TECNO%20IN5/video/Interstellar%20(2014)%20(2014)%20[1080p]/Instagram_icon-icons.com_66804.svg" />][instagram]
+[<img align="left" alt="priyanshu Sharma | Instagram" width="22px" src="file:///C:/Users/LENOVO/Downloads/SHAREit/TECNO%20IN5/video/Interstel![icons8-instagram-48](https://user-images.githubusercontent.com/57032769/110303213-23a11480-8020-11eb-9185-f859c6456b4a.png)
+
 
 <br />
 
