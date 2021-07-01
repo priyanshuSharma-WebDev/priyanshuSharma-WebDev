@@ -46,7 +46,7 @@
 
 <img align="left" alt="graphql" width="36px" src="https://graphql.org/img/logo.svg" />
 <img align="left" alt="graphql" width="36px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" />
-<img align="left" alt="next js" width="36px" src="https://www.honext.io/static/images/next_logo.png" />
+<!-- <img align="left" alt="next js" width="36px" src="https://www.honext.io/static/images/next_logo.png" /> -->
 <img align="left" alt="linux" width="36px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />
 
 <br />
